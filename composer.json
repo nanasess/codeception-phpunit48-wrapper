@@ -1,5 +1,5 @@
 {
-    "name": "codeception/phpunit-wrapper",
+    "name": "nanasess/codeception-phpunit48-wrapper",
     "description": "PHPUnit classes used by Codeception",
     "type": "library",
     "license": "MIT",
@@ -13,9 +13,9 @@
         "codeception/phpunit-wrapper": "*"
     },
     "require": {
-        "phpunit/phpunit": ">=5.7.27 <6.5.13",
-        "phpunit/php-code-coverage": ">=4.0.4 <6.0",
-        "sebastian/comparator": ">=1.2.4 <3.0",
+        "nanasess/phpunit48": ">=4.8.40",
+        "phpunit/php-code-coverage": ">=2.2.4 <6.0",
+        "sebastian/comparator": "~1.2.4",
         "sebastian/diff": ">=1.4 <4.0"
 
     },
